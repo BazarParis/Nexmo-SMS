@@ -1,5 +1,5 @@
 Android-Nexmo-SMS
-=================
+==================
 
 Android APP that can send an SMS using your Nexmo API credentials. You will need your API_key, API_secret from Nexmo and a destination
 number where to test.
